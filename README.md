@@ -1,4 +1,4 @@
-# Bike Sales Excel Dashboard Project
+# Bike Sales Excel Dashboard Analysis Project
 ## About
 The goal of this project was to explore bike sales data for more insightful information and create visuals for easy understanding. An interactive dashboard was created in Excel with various slicers connecting all four charts made from pivot tables.
 
