@@ -8,6 +8,6 @@ Dataset can be found [here](https://github.com/AlexTheAnalyst/Excel-Tutorial/blo
 ## Data Cleanup Process
 - Removed duplicate values
 - Renamed values for easier understanding (Marital status; replaced 'M' with 'Married' an 'S' with 'Single')
-- Created a new column categorize customers' age groups with IF statements
+- Created a new column to categorize customers' age groups with IF statements
 
 
