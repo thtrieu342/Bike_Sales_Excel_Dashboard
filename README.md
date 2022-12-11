@@ -10,4 +10,5 @@ Dataset can be found [here](https://github.com/AlexTheAnalyst/Excel-Tutorial/blo
 - Renamed values for easier understanding (Marital status; replaced 'M' with 'Married' an 'S' with 'Single')
 - Created a new column to categorize customers' age groups with IF statements
 
-![Dashboard](Dashboard.png)
+## Output
+![Dashboard Screenshot](Dashboard.png)
